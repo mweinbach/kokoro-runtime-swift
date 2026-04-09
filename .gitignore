@@ -3,4 +3,5 @@
 .DS_Store
 *.wav
 local-bundle/
+download-test/
 dist/
